@@ -51,7 +51,7 @@ body, html {
 
 /* Ajuste as transformações de cada camada */
 .layer1 {
-    transform: translateZ(100px);
+    transform: translateZ(5px);
 }
 
 .layer2 {
@@ -59,11 +59,11 @@ body, html {
 }
 
 .layer3 {
-    transform: translateZ(0);
+    transform: translateZ(0px);
 }
 
 .layer4 {
-    transform: translateZ(-25px);
+    transform: translateZ(-35px);
 }
 
 .layer5 {
@@ -73,4 +73,3 @@ body, html {
 .layer6 {
     transform: translateZ(-75px);
 }
-
